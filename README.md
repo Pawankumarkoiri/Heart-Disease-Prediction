@@ -59,6 +59,10 @@ The dataset contains medical information collected from patients.
 * **0** → No Heart Disease
 * **1** → Heart Disease
 
+* ### Dataset Source
+
+The dataset is based on the **UCI Heart Disease Dataset**, which is commonly used for educational purposes and machine learning classification tasks.
+
 ---
 
 # 📊 Exploratory Data Analysis (EDA)
@@ -101,25 +105,6 @@ The small difference between training and testing accuracy indicates that the mo
 
 ---
 
-# 📷 Project Screenshots
-
-## Correlation Heatmap
-
-![Heatmap](images/heatmap.png)
-
-## Confusion Matrix
-
-![Confusion Matrix](images/confusion_matrix.png)
-
-## ROC Curve
-
-![ROC Curve](images/roc_curve.png)
-
-## Feature Importance
-
-![Feature Importance](images/feature_importance.png)
-
----
 
 # 🔄 Project Workflow
 
