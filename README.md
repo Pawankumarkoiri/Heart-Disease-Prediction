@@ -164,13 +164,12 @@ Heart-Disease-Prediction-Using-Logistic-Regression/
 ├── Heart_Disease_Prediction_Using_Logistic_Regression.ipynb
 ├── heart.csv
 ├── README.md
-├── requirements.txt
 ├── LICENSE
-└── images/
-    ├── heatmap.png
-    ├── confusion_matrix.png
-    ├── roc_curve.png
-    ├── feature_importance.png
+└── Graph/
+    ├── heatmap
+    ├── confusion_matrix
+    ├── roc_curve
+    ├── feature_importance
 ```
 
 ---
